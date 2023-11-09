@@ -7,11 +7,11 @@ Install git lfs
 
 
 
--> apt install git -y     | yum install git -y
+->    apt install git -y          |       yum install git -y
 
 
 
--> apt install git-lfs -y | yum install git-lfs -y
+->     apt install git-lfs -y     |      yum install git-lfs -y
 
 
 
